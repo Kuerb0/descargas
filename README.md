@@ -8,7 +8,7 @@ Instaladores de las apps de Kuerb0 que no caben en el [portal](https://kuerb0.gi
 | Finanzas Personales | 2.0.0 | [Releases → finanzas-v2.0.0](https://github.com/Kuerb0/descargas/releases/tag/finanzas-v2.0.0) |
 | Administrador de Tareas+ (antes Logeador) | 1.4.0 | [Releases → logeador-v1.4.0](https://github.com/Kuerb0/descargas/releases/tag/logeador-v1.4.0) |
 | Estadística | 1.0.0 | [Releases → estadistica-v1.0.0](https://github.com/Kuerb0/descargas/releases/tag/estadistica-v1.0.0) |
-| Calendario | 2.4.0 | [Releases → calendario-v2.4.0](https://github.com/Kuerb0/descargas/releases/tag/calendario-v2.4.0) |
+| Calendario | 2.4.1 | [Releases → calendario-v2.4.1](https://github.com/Kuerb0/descargas/releases/tag/calendario-v2.4.1) |
 | Post-It | 2.0.1 | [Releases → postit-v2.0.1](https://github.com/Kuerb0/descargas/releases/tag/postit-v2.0.1) |
 
 Atlas del conocimiento y Apagador publican sus releases en sus propios repositorios: [Atlas](https://github.com/Kuerb0/Atlas-del-Conocimiento-App/releases/latest), [Apagador](https://github.com/Kuerb0/Apagador-App/releases/latest).
